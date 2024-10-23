@@ -15,38 +15,9 @@ This project is a simple **Notepad Website** created using **HTML**, **CSS**, an
 
 You can access the live version of the website [here](#). *(Add link to live project if hosted)*
 
-## Screenshots
-
-![Screenshot of Notepad Website](path-to-screenshot-image)
-
 ## Technologies Used
 
 - **HTML**: Structuring the webpage.
 - **CSS**: Styling and layout of the page.
 - **JavaScript**: Dynamic functionality for saving, loading, and clearing notes.
-
-## Code Snippets
-
-### HTML
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notepad</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Notepad</h1>
-        <textarea id="notepad" placeholder="Start writing..."></textarea>
-        <div class="buttons">
-            <button onclick="saveNote()">Save Note</button>
-            <button onclick="clearNote()">Clear Note</button>
-        </div>
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
+   
