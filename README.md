@@ -15,8 +15,6 @@ This project is a simple **Notepad Website** created using **HTML**, **CSS**, an
 
 You can access the live version of the website [here](#). *(https://abhomenp.github.io/Noted/)*
 
-
-
 ## Technologies Used
 
 - **HTML**: Structuring the webpage.
